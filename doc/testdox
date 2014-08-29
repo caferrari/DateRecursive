@@ -1,0 +1,11 @@
+Ferrari\DateRecursive\DateRecursive
+ [x] Returns a list of dates that matches the criteria and the limit
+
+Ferrari\DateRecursive\Rule\DayOfMonth
+ [x] Return true if the day of month match
+ [x] Return false if the day of month does not match
+
+Ferrari\DateRecursive\Rule\DayOfWeek
+ [x] Return true if the day of month match
+ [x] Return false if the day of month does not match
+
